@@ -1,0 +1,14 @@
+plugins {
+    id 'com.android.application'
+}
+android {
+    namespace 'com.example.yetimtakiosistemi'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'com.example.yetimtakiosistemi'
+        minSdk 21
+        targetSdk 34
+        versionCode 1793625465
+        versionName '1.0'
+    }
+}
